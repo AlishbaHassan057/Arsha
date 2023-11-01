@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+:root {
+  --background: #37517e;
+}
+:root {
+  --color: #37517e;
+}
+
+.main {
+  background: var(--background);
+}
+.main {
+  background: #37517e;
+}
+.blues {
+  color: #889fb3;
+}
+.lights {
+  background-color: #f3f5fa;
+}
+h2 {
+  color: var(--color);
+}
+.acc {
+  background: #f3f5fa;
+}
+.acc-head {
+  color: var(--color);
+}
+h1 {
+  color: var(--color);
+}
+.progress-bar bar-1 {
+  height: 10px;
+  color: var(--color);
+}
+.bar {
+  color: var(--color);
+}
+.icons {
+  font-size: 2rem;
+  color: #77c6eb;
+}
